@@ -5,6 +5,7 @@
   "label": "lecole-42_back-System",
   "code": "5.3.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "The Unix Alchemist: Transmuting recursive pipes into web servers and containers into… well, more containers.\"",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/lecole-42_back-System",
