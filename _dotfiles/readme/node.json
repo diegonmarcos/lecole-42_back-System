@@ -1,0 +1,68 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "lecole-42_back-System",
+  "label": "lecole-42_back-System",
+  "code": "5.3.1.1",
+  "kind": "repo",
+  "description": "The Unix Alchemist: Transmuting recursive pipes into web servers and containers into… well, more containers.\"",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/lecole-42_back-System",
+  "developer": "lecole42",
+  "farm": "5.Lecole-42",
+  "breadcrumb": [
+    {
+      "code": "5",
+      "kind": "area",
+      "label": "42",
+      "icon": "🎓"
+    },
+    {
+      "code": "5.3",
+      "kind": "project",
+      "label": "42-system",
+      "icon": "⚙️"
+    },
+    {
+      "code": "5.3.1",
+      "kind": "family",
+      "label": "Back",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "lecole-42-___",
+    "code": "5.0",
+    "url": "https://github.com/diegonmarcos/lecole-42-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── .claude/",
+    "├── 0_hub/",
+    "│   └── lecole-42-___ (submodule)",
+    "├── c1_born2beroot/",
+    "│   ├── 1.RoadMap/",
+    "│   │   └── zold/",
+    "│   ├── 2.Resources/",
+    "│   │   ├── Code1/",
+    "│   │   └── Code2/",
+    "│   ├── 3.Code/",
+    "│   └── 4.Tester/",
+    "├── c2_pipex/",
+    "│   ├── .vscode/",
+    "│   ├── 1_RM/",
+    "│   │   └── learning/",
+    "│   └── 2_SRC/",
+    "│       ├── inc/",
+    "│       ├── libs/",
+    "│       ├── src/",
+    "│       └── src_bonus/",
+    "├── c2_websrv/",
+    "└── d_s2_docker/",
+    "    ├── resource/",
+    "    │   ├── src/",
+    "    │   └── v1/",
+    "    └── src/"
+  ]
+}
